@@ -1,2 +1,20 @@
-here we a daat visulization dash board using python in this we are only able acces two types of files that is .csv and .xlsx filse only and the files must contain these colomuns 
-(city, price, availability_365, latitude, longitude, last_review, and reviews_per_month) if not you will get some errors in code if you want to change the data set then you need to change the code also.
+This Python-based Data Visualization Dashboard uses Streamlit for interactive data analysis.
+
+Supported File Types
+The dashboard only accepts .csv and .xlsx files.
+Any other file format will not be processed.
+Required Columns
+To ensure smooth operation, your dataset must include the following columns:
+
+city
+price
+availability_365
+latitude
+longitude
+last_review
+reviews_per_month
+If any of these columns are missing, errors will occur in the dashboard, and the data processing or visualizations will not work correctly.
+
+Important Note
+If you want to use a different dataset with other column names or structures, you must modify the code accordingly to handle the new data format.
+
