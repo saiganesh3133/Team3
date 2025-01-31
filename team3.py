@@ -102,4 +102,6 @@ else:
     st.info("Please upload a data file to begin analysis.")
 
 # Footer
-st.write("Dashboard powered by Streamlit. Airbnb dataset used for educational purposes.")
+st.write("Dashboard powered by Streamlit. Used for understanding your data more Acuurately ")
+st.write ("Uppload Your Daat and sit Tight, Your dash board is on the way")
+
