@@ -7,8 +7,8 @@ from folium.plugins import MarkerCluster
 import io
 
 # Title and Description
-st.title("Dynamic Dashboard for Airbnb Data Analysis")
-st.write("This dashboard provides insights into Airbnb listings, including pricing trends, availability patterns, and customer preferences.")
+st.title("Dynamic Data visualization Dash Baord ")
+st.write("This dashboard provides insights into The Data You Provided, including pricing trends, availability patterns, and customer preferences.")
 
 # File Upload Section
 st.header("Upload Data")
